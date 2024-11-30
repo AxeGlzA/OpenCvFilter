@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 29 10:48:34 2019
 
-@author: GabrielAsus
-"""
 import cv2 as cv
 
 cascPath = "haarcascade_frontalface_default.xml"
